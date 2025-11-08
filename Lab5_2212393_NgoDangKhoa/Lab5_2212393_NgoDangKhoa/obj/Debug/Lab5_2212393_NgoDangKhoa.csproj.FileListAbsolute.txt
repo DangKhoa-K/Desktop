@@ -1,0 +1,11 @@
+C:\Users\drago\Downloads\Lab5_2212393_NgoDangKhoa\Lab5_2212393_NgoDangKhoa\bin\Debug\Lab07_Advanced_Command_Execution.exe.config
+C:\Users\drago\Downloads\Lab5_2212393_NgoDangKhoa\Lab5_2212393_NgoDangKhoa\bin\Debug\Lab07_Advanced_Command_Execution.exe
+C:\Users\drago\Downloads\Lab5_2212393_NgoDangKhoa\Lab5_2212393_NgoDangKhoa\bin\Debug\Lab07_Advanced_Command_Execution.pdb
+C:\Users\drago\Downloads\Lab5_2212393_NgoDangKhoa\Lab5_2212393_NgoDangKhoa\obj\Debug\Lab5_2212393_NgoDangKhoa.csproj.AssemblyReference.cache
+C:\Users\drago\Downloads\Lab5_2212393_NgoDangKhoa\Lab5_2212393_NgoDangKhoa\obj\Debug\Lab5_2212393_NgoDangKhoa.Form1.resources
+C:\Users\drago\Downloads\Lab5_2212393_NgoDangKhoa\Lab5_2212393_NgoDangKhoa\obj\Debug\Lab5_2212393_NgoDangKhoa.FormFoodInfo.resources
+C:\Users\drago\Downloads\Lab5_2212393_NgoDangKhoa\Lab5_2212393_NgoDangKhoa\obj\Debug\Lab07_Advanced_Command_Execution.Properties.Resources.resources
+C:\Users\drago\Downloads\Lab5_2212393_NgoDangKhoa\Lab5_2212393_NgoDangKhoa\obj\Debug\Lab5_2212393_NgoDangKhoa.csproj.GenerateResource.cache
+C:\Users\drago\Downloads\Lab5_2212393_NgoDangKhoa\Lab5_2212393_NgoDangKhoa\obj\Debug\Lab5_2212393_NgoDangKhoa.csproj.CoreCompileInputs.cache
+C:\Users\drago\Downloads\Lab5_2212393_NgoDangKhoa\Lab5_2212393_NgoDangKhoa\obj\Debug\Lab07_Advanced_Command_Execution.exe
+C:\Users\drago\Downloads\Lab5_2212393_NgoDangKhoa\Lab5_2212393_NgoDangKhoa\obj\Debug\Lab07_Advanced_Command_Execution.pdb

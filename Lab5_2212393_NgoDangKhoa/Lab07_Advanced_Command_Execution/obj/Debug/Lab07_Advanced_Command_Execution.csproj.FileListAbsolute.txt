@@ -1,0 +1,11 @@
+C:\Users\drago\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\bin\Debug\Lab07_Advanced_Command_Execution.exe.config
+C:\Users\drago\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\bin\Debug\Lab07_Advanced_Command_Execution.exe
+C:\Users\drago\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\bin\Debug\Lab07_Advanced_Command_Execution.pdb
+C:\Users\drago\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\obj\Debug\Lab07_Advanced_Command_Execution.csproj.AssemblyReference.cache
+C:\Users\drago\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\obj\Debug\Lab07_Advanced_Command_Execution.Form1.resources
+C:\Users\drago\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\obj\Debug\Lab07_Advanced_Command_Execution.FormFoodInfo.resources
+C:\Users\drago\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\obj\Debug\Lab07_Advanced_Command_Execution.Properties.Resources.resources
+C:\Users\drago\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\obj\Debug\Lab07_Advanced_Command_Execution.csproj.GenerateResource.cache
+C:\Users\drago\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\obj\Debug\Lab07_Advanced_Command_Execution.csproj.CoreCompileInputs.cache
+C:\Users\drago\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\obj\Debug\Lab07_Advanced_Command_Execution.exe
+C:\Users\drago\Downloads\LT-CSDL-master\LT-CSDL-master\Lab07_Advanced_Command_Execution\Lab07_Advanced_Command_Execution\obj\Debug\Lab07_Advanced_Command_Execution.pdb
